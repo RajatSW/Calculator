@@ -4,10 +4,7 @@ A clean and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 It performs basic arithmetic operations and features a modern UI with smooth button interactions.
 
 ---
-📸 Preview
-
-(Add a screenshot of your calculator here)
-## 🔗 Live Demo
+## 📸 Preview
 [Click here to preview the calculator](https://your-username.github.io/calculator/)
 
 ---
