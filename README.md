@@ -25,9 +25,8 @@ It performs basic arithmetic operations and features a modern UI with smooth but
 ---
 
 ## ▶️ How to Run
-1. Clone the repository
+   Clone the repository
 
----
 🙌 Contributing
 
 Feel free to fork the project and submit PRs!
