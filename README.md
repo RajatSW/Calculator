@@ -1,2 +1,36 @@
-# Calculator
-A sleek, responsive calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations with a modern UI and smooth button interactions.
+# 🧮 Simple Calculator
+
+A clean and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.  
+It performs basic arithmetic operations and features a modern UI with smooth button interactions.
+
+---
+📸 Preview
+
+(Add a screenshot of your calculator here)
+## 🔗 Live Demo
+[Click here to preview the calculator](https://your-username.github.io/calculator/)
+
+---
+## 🚀 Features
+- Addition, subtraction, multiplication, division
+- AC (All Clear) and Delete functions
+- Percentage and decimal support
+- Responsive and minimal UI
+- Interactive button behaviour
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5** – structure and layout  
+- **CSS3** – styling, gradients, shadows, responsive UI  
+- **JavaScript (Vanilla JS)** – logic for handling operations and button events  
+
+---
+
+## ▶️ How to Run
+1. Clone the repository
+
+---
+🙌 Contributing
+
+Feel free to fork the project and submit PRs!
