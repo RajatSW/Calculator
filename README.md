@@ -5,7 +5,7 @@ It performs basic arithmetic operations and features a modern UI with smooth but
 
 ---
 ## 📸 Preview
-![imgage alt]((https://github.com/RajatSW/Calculator/blob/288e6bb644e05f9f9b9d2d8c414e26a8b1fccf87/Preview.png)
+![imgage alt](https://github.com/RajatSW/Calculator/blob/288e6bb644e05f9f9b9d2d8c414e26a8b1fccf87/Preview.png)
 
 ---
 ## 🚀 Features
