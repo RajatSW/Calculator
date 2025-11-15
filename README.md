@@ -5,7 +5,7 @@ It performs basic arithmetic operations and features a modern UI with smooth but
 
 ---
 ## 📸 Preview
-[Click here to preview the calculator](https://your-username.github.io/calculator/)
+[Click here to preview the calculator](https://github.com/RajatSW/Calculator/blob/288e6bb644e05f9f9b9d2d8c414e26a8b1fccf87/Preview.png)
 
 ---
 ## 🚀 Features
